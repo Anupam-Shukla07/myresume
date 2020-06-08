@@ -26,7 +26,7 @@ SECRET_KEY = 'aheul&%6y61q%@6t8fj280ciu$ibr6yl#e59*^9h0@q#o9=csm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["anupam-resume.herokuapp.com"]
 
 
 # Application definition
